@@ -5,3 +5,9 @@ collection of anything, tryouts and such
 * Second entry, alike
 
 Lets see, how far we can get with this...
+Any change (now within readme-edits) will help us
+to learn and understand the concept of git workflow.
+
+*great*
+
+(for now)
